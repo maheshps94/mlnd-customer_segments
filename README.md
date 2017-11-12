@@ -1,2 +1,2 @@
 # mlnd-customer_segments
-Udacity Machine Learning Nanodegree Project 4: Training a smartcab
+Udacity Machine Learning Nanodegree Project 4: Creating Customer Segments
